@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lifecycle Example App</string>
+    <string name="txt">Zdravo</string>
+</resources>
